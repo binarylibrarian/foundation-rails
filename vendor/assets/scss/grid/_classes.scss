@@ -72,10 +72,10 @@
 
     // To properly nest a column row, padding and margin is removed
     .#{$row} & {
-      padding-left: 0;
-      padding-right: 0;
-      margin-left: 0;
-      margin-right: 0;
+      // padding-left: 0;
+      // padding-right: 0;
+      // margin-left: 0;
+      // margin-right: 0;
     }
   }
 
